@@ -32,6 +32,7 @@ Descriptions of different files...
 PACKAGES USED:
 --------------
 pip install wikipedia
+pip install Wikipedia-API
 pip install pysbd
 pip install tqdm
 pip install gensim
