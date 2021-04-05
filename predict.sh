@@ -1,0 +1,1 @@
+PYTHONPATH=. python -W ignore run.py --predict -d "$1" -code "$2" -n "$3" -weight_method "$4"

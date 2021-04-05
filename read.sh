@@ -1,0 +1,1 @@
+PYTHONPATH=. python -W ignore run.py --read -d "$1" -query $2
